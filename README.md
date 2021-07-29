@@ -1,4 +1,4 @@
-# RheasArm
+# Rhea's Arm
  
 Very simple guitar simulator.
 
