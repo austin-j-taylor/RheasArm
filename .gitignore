@@ -1,0 +1,8 @@
+Builds/
+LocalPackages/
+Library/
+obj/
+Temp/
+*.vs/
+Assets/Kevin Iglesias/*
+Assets/Kevin Iglesias.meta
